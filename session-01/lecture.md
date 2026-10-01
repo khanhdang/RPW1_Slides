@@ -18,8 +18,25 @@ University of Aizu
 <!-- Source: AY2025_lect1 - intro.pptx. Adapted for AY2026.
 Confirm the 2026 teaching team, schedule, ELMS activities, and assessment rules before class.
 -->
+<!-- 
+--- 
 
----
+# A bit about myself
+
+- DANG Nam Khanh
+  - Vietnam National Univeristy, Hanoi ('11), Paris-Sud University ('14), University of Aizu ('17)
+- Position: Associate Professor
+- Experiences:
+  - Editors: 2 Major Journal
+  - Guest Editors: 5 special sessions
+  - TPC co-chairs: 4 IEEE Conferences 
+
+- With my supervised students:
+  - Book chapters: 3
+  - Patents: 4
+  - Conference (IEEE): 10+
+  - Journal (IEEE Transactions): 3 -->
+--- 
 
 # Why RPW1 in the era of LLM?
 
@@ -1016,24 +1033,24 @@ Learn from the structure. Write your own explanation.
 
 ---
 
-# Final assignment
+# Final/Midterm assignment
 
 ![w:1100 h:410](images/diagrams/final-assignment.svg)
+
+**Your final draft must address concerns from all three midterm reviewers.**
 
 <!--
 Presenter notes
 
-The 2025 course used two parts:
+AY2026 assignment flow:
+1. Each student writes an individual paper draft.
+2. At midterm, three students review each draft independently.
+3. The author reads all three reviews and revises the paper for the final submission.
+4. The final draft must address every concern. Explain the changes made. If you disagree with a concern, explain why and support your response with evidence.
+5. Three students review each final draft in the final review round.
+6. Instructors grade both the paper drafts and the student reviews.
 
-1. An individual paper draft
-2. Reviews of other students’ drafts
-
-Each draft received reviews from three students.
-Instructors graded both the draft and the reviews.
-
-Check ELMS for the **confirmed AY2026 requirements and deadlines**.
-
-Source slide 84. No 2026 rubric or deadlines supplied.
+Ask students: How will you check that you have addressed comments from all three reviewers?
 -->
 
 ---
