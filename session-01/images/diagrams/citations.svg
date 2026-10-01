@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="250"
+   viewBox="0 0 1100 250"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="citations.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1837221"
+     inkscape:cx="368.75209"
+     inkscape:cy="-53.221951"
+     inkscape:window-width="3008"
+     inkscape:window-height="1947"
+     inkscape:window-x="1080"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <title
+     id="title">Citations and plagiarism</title>
+  <desc
+     id="desc">Diagram labels: Source. Ideas, data, code, words. Use with care. Quote or paraphrase. Credit. Cite the original source. Check. Permissions and rules.</desc>
+  <defs
+     id="defs1">
+    <marker
+       id="a"
+       markerWidth="12"
+       markerHeight="12"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 9,5 0,10"
+         fill="none"
+         stroke="#77756d"
+         stroke-width="2"
+         id="path1" />
+    </marker>
+  </defs>
+  <g
+     font-family="Aptos, 'Segoe UI', Arial, sans-serif"
+     id="g9"
+     transform="translate(4.2239643,-76.031358)">
+    <g
+       transform="translate(140,137)"
+       fill="none"
+       stroke="#b37218"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g2">
+      <path
+         d="m 0,-24 c -15,-10 -30,-8 -38,-2 v 57 c 16,-7 26,-4 38,4 12,-8 22,-11 38,-4 v -57 c -8,-6 -23,-8 -38,2 v 59"
+         id="path2" />
+    </g>
+    <text
+       x="140"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text2">Source</text>
+    <text
+       x="140"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text3">Ideas, data, code, words</text>
+    <path
+       d="M 195,137 H 358.33333"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path3" />
+    <g
+       transform="translate(413.33333,137)"
+       fill="none"
+       stroke="#466e7b"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g4">
+      <path
+         d="M -24,28 -19,8 19,-30 33,-16 -5,22 Z M -19,8 -5,22 M 12,-23 26,-9"
+         id="path4" />
+    </g>
+    <text
+       x="413.33334"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text4">Use with care</text>
+    <text
+       x="413.33334"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text5">Quote or paraphrase</text>
+    <path
+       d="M 468.33333,137 H 631.66667"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path5" />
+    <g
+       transform="translate(686.66667,137)"
+       fill="none"
+       stroke="#b37218"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g6">
+      <path
+         d="M -4,-18 6,-28 c 23,-22 44,8 19,27 L 14,9 M 4,18 -6,28 C -29,50 -50,20 -25,1 l 11,-10 m 1,22 26,-26"
+         id="path6" />
+    </g>
+    <text
+       x="686.66669"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text6">Credit</text>
+    <text
+       x="686.66669"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text7">Cite the original source</text>
+    <path
+       d="M 741.66667,137 H 905"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path7" />
+    <g
+       transform="translate(960,137)"
+       fill="none"
+       stroke="#466e7b"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g8">
+      <circle
+         cx="0"
+         cy="0"
+         r="32"
+         id="circle7" />
+      <path
+         d="M -17,0 -4,13 19,-15"
+         id="path8" />
+    </g>
+    <text
+       x="960"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text8">Check</text>
+    <text
+       x="960"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text9">Permissions and rules</text>
+  </g>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Citations and plagiarism</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

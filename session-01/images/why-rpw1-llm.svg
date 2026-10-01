@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-labelledby="title desc">
+  <title id="title">The researcher and an LLM contribute to a research paper</title>
+  <desc id="desc">The researcher defines the question, checks evidence, and judges claims. An LLM helps draft and revise text. Both feed into a paper that the researcher checks and takes responsibility for.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#77756d" stroke-width="2"/></marker>
+  </defs>
+  <g font-family="Aptos, Segoe UI, Arial, sans-serif" fill="#30302b">
+    <!-- Researcher: responsibility for the research argument -->
+    <g stroke="#b37218" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="59" cy="65" r="21"/>
+      <path d="M20 124 C20 84 98 84 98 124"/>
+    </g>
+    <text x="130" y="65" font-size="30" font-weight="700" fill="#b37218">You: research judgment</text>
+    <text x="130" y="104" font-size="24">Define the question</text>
+    <text x="130" y="137" font-size="24">Check evidence and claims</text>
+    <!-- LLM: assistance with the text -->
+    <g stroke="#466e7b" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M21 215 H96 V261 H57 L36 278 V261 H21 Z"/>
+      <path d="M36 231 H80 M36 246 H66"/>
+    </g>
+    <text x="130" y="224" font-size="30" font-weight="700" fill="#466e7b">LLM: writing support</text>
+    <text x="130" y="263" font-size="24">Suggest wording and structure</text>
+    <text x="130" y="296" font-size="24">Help draft and revise text</text>
+    <!-- Inputs converge on the manuscript -->
+    <g fill="none" stroke="#77756d" stroke-width="2.5" marker-end="url(#arrow)">
+      <path d="M505 100 H594 L666 170 H721"/>
+      <path d="M505 254 H594 L666 184 H721"/>
+    </g>
+    <!-- Paper: checked and owned by the author -->
+    <g stroke="#b37218" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M797 71 H888 L919 102 V205 H797 Z"/>
+      <path d="M888 71 V102 H919 M818 120 H895 M818 140 H895 M818 160 H872"/>
+      <circle cx="920" cy="190" r="28" fill="#f5f5f5"/>
+      <path d="M906 190 L916 201 L935 178"/>
+    </g>
+    <text x="868" y="255" text-anchor="middle" font-size="30" font-weight="700">Your paper</text>
+    <text x="868" y="295" text-anchor="middle" font-size="24">Your responsibility</text>
+  </g>
+</svg>

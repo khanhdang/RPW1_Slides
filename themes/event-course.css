@@ -1,0 +1,90 @@
+/* @theme event-course */
+
+@import 'default';
+
+section {
+    font-family: "Aptos", "Segoe UI", sans-serif;
+    /* font-size: 30px;  */
+    /* padding: 40px;  */
+        background: #f5f5f5;
+
+}
+
+h1 {
+    color: #b37218;
+    font-size: 46px;
+}
+
+h2 {
+    color: #373012;
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+pre {
+    font-size: 22px;
+}
+
+code {
+    font-size: 22px;
+}
+
+ul li {
+    margin: 0.2em 0;
+}
+
+table {
+    font-size: 26px;
+}
+
+footer {
+    color: gray;
+    font-size: 18px;
+}
+
+img {
+    max-height: 75%;
+}
+
+table th {
+    text-align: left;
+}
+
+table td {
+    text-align: left;
+}
+
+/* Two columns */
+.columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+}
+
+.columns > div {
+    min-width: 0;
+}
+
+/* Dark slide */
+section.dark {
+    background: #222;
+    color: #fff;
+}
+
+section.dark h1,
+section.dark h2,
+section.dark h3 {
+    color: #fff;
+}
+
+section.dark a {
+    color: #8ecfff;
+}
+
+.toc {
+  font-size: 34px;
+  line-height: 1.8;
+}
