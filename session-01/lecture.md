@@ -1,16 +1,19 @@
 ---
 marp: true
-theme: event-course
+theme: e3c
 paginate: true
 title: Research Paper Writing 1 — Session 01 — AY2026
 author: RPW1 Team
 footer: 'RPW1 · AY2026 · Session 01'
 ---
+<!-- _class: center-title -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
 
 # Research Paper Writing Seminar I (RPW1)
 
 ## Session 01: Introduction to RPW1
-### AY 2026, S2 (Q3 and Q4)
+### AY2026, S2 (Q3 and Q4)
 
 RPW1 Team
 University of Aizu
@@ -295,8 +298,8 @@ Source: https://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2026_2_E_008.h
 
 # Session 01: Q&A and survey
 
-![w:1100 h:310](images/diagrams/student-survey.svg)
-![bg right:20% contain](images/diagrams/SS1-quiz.svg)
+![w:1200](images/diagrams/student-survey.svg)
+![bg right:28% 80%](images/diagrams/SS1-quiz.svg)
 
 - Open ELMS: [https://elms.u-aizu.ac.jp/](https://elms.u-aizu.ac.jp/)
 - Please complete the questionnaire in 10 minutes.
@@ -320,6 +323,9 @@ Allow about 10 minutes. Confirm the 17:50 closing time in ELMS before class.
 -->
 
 ---
+<!-- _class: center-title -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
 
 # What is a research paper?
 
@@ -398,7 +404,9 @@ Paper: https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf
 -->
 
 ---
-
+<!-- _class: center-title -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
 # Why RPW1?
 
 
@@ -626,7 +634,9 @@ Adapted from slides 33–36.
 -->
 
 ---
-
+<!-- _class: center-title -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
 # The research and writing process
 
 ---
@@ -897,7 +907,9 @@ Generative AI use depends on course and venue rules.
 -->
 
 ---
-
+<!-- _class: center-title -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
 # How will your papers be reviewed?
 
 
@@ -1104,7 +1116,9 @@ https://conferences.ieeeauthorcenter.ieee.org/understand-peer-review/
 -->
 
 ---
-
+<!-- _class: center-title -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
 # Some modest suggestions
 
 ---
@@ -1264,6 +1278,7 @@ Journal Impact Factor is a journal metric. Assess each paper's methods, evidence
 
 
 ---
+<!-- _class: center-title -->
 
 # Q&A time
 
@@ -1274,8 +1289,10 @@ Journal Impact Factor is a journal metric. Assess each paper's methods, evidence
 ![w:1100 h:410](images/diagrams/questions.svg)
 
 ---
-
-# What would you like to ask about the course?
+<!-- _class: center-title -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
+# Q&A: What would you like to ask about the course?
 
 <!--
 Presenter notes
@@ -1305,11 +1322,11 @@ Source slide 85.
 
 ---
 
-# to Advance Knowledge<br>for Humanity
+# to Advance Knowledge for Humanity
 
 Our founding principle calls us to **invent** and **discover** for the peace and prosperity of humankind.
 
-![bg right:48% contain](images/UoA_motto.jpg)
+![bg right:48% 80%](images/UoA_motto.jpg)
 
 
 <!--
@@ -1332,12 +1349,12 @@ The research-topic preparation is a suggested class preparation, not a new grade
 -->
 
 ---
+<!-- _class: center-title -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
 
 # Thank you
 
-## Questions?
 
-Research Paper Writing Seminar I (RPW1)
-Session 01, AY2026
 
-Next topic: Literature survey and review
+Next session: Literature survey and review

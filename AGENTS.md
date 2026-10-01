@@ -4,7 +4,7 @@ Marp lecture materials for the University of Aizu's Research Paper Writing Semin
 
 ## Repository and editing workflow
 
-- Read `COURSE_CONTEXT.md` if available, and any nested `AGENTS.md` files relevant to the session being edited.
+- Read `COURSE_CONTEXT.md` at session start, and any nested `AGENTS.md` files relevant to the session being edited.
 - Edit `session-NN/lecture.md` as the source. Preserve the `session-NN` directory names; the repository currently contains Session 01.
 - Preserve `marp: true`, `theme: event-course`, and `paginate: true`. Keep the title and footer consistent with the session and academic year.
 - Shared styling is in `themes/event-course.css`. The `event-course` name is retained from the original template and is still used by the deck. Register this CSS as a custom theme in the Marp preview/export tool when needed; there is currently no `.vscode/settings.json`.
