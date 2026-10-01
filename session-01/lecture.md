@@ -16,26 +16,47 @@ RPW1 Team
 University of Aizu
 
 <!-- Source: AY2025_lect1 - intro.pptx. Adapted for AY2026.
-Confirm the 2026 teaching team, schedule, ELMS activities, and assessment rules before class.
+Teaching team, topic plan, and grading split checked against the AY2026 syllabus on 2026-10-02:
+https://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2026_2_E_008.html
+Confirm class dates, ELMS activities, and detailed assessment rules before class.
 -->
 
---- 
-
+---
 
 
 # Agenda
 
-- Course overview 
+- Course overview
 - Research papers and why we write them
 - The research and writing process
 - Peer review and revision
-- Q&A and Recap
+- Q&A and recap
+
+---
+
+# Our university motto
+
+**to Advance Knowledge for Humanity**
+
+Our founding principle calls us to **invent** and **discover** for the peace and prosperity of humankind.
+
+![bg right:48% contain](images/UoA_motto.jpg)
+
+<!-- Source: https://u-aizu.ac.jp/en/intro/ (checked 2026-10-02). The explanation is a paraphrase. -->
+
+---
+
+# My personal take
+
+- We are here to invent new technologies, discover useful things, and create real value for our local community and the world.
+- We are NOT here simply to publish as many papers as possible.
+- **Papers are a way to communicate our discoveries — not the ultimate goal of our research.**
 
 ---
 
 # Teaching team
 
-The teaching team included:
+The AY2026 teaching team includes:
 
 - KACHI Yasuyuki: Mathematics
 - ROY Debopriyo: Linguistics
@@ -44,7 +65,6 @@ The teaching team included:
 - DANG Nam Khanh: Computer Architecture
 
 **We also have several invited lecturers!**
-
 
 
 ---
@@ -102,7 +122,7 @@ Source: slides 5–6. Career choices and support categories overlap.
 - Organizing sections and connecting ideas
 - Academic English and word choice
 - Choosing a research topic
-- Related Works
+- Reviewing related work
 - Using LaTeX
 
 
@@ -111,16 +131,16 @@ Source: slides 5–6. Career choices and support categories overlap.
 # Course goals
 
 <!-- ![w:1100 h:300](images/diagrams/course-goals.svg) -->
-### What RP1 is about:
+### What RPW1 covers
 
 - Understand the structure of a research paper.
 - Develop skills for research paper writing.
-- Learn the submission policy, such as citations and ethical writing.
+- Learn citation, submission, and ethical writing practices.
 
 
-### What RPW1 is NOT:
+### Course scope
 - Your supervisor guides your research.
-- This course focuses on research writing, rather than general English lessons.
+- RPW1 focuses on scientific writing. General English study is separate.
 
 
 ---
@@ -134,7 +154,7 @@ The course uses examples from computer science and engineering.
 - Theory and algorithms
 - AI, graphics, and multimedia
 - Human–computer interaction
-- and others.
+- Other areas of computer science and engineering
 
 ---
 
@@ -158,7 +178,9 @@ Presenter notes
 
 Check ELMS for the confirmed 2026 order and dates.
 
-Topic plan from 2025, slide 13. Instructor assignments may change.
+Topic plan verified against the AY2026 syllabus (checked 2026-10-02).
+https://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2026_2_E_008.html
+Instructor assignments and class dates are announced in ELMS.
 -->
 
 ---
@@ -182,7 +204,9 @@ Presenter notes
 
 Topics and dates may change with instructor availability.
 
-This is the topic plan from the source, not a confirmed AY2026 timetable.
+Topic plan verified against the AY2026 syllabus (checked 2026-10-02).
+https://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2026_2_E_008.html
+This is a topic plan, not a timetable with confirmed class dates.
 -->
 
 ---
@@ -196,8 +220,8 @@ Use the **AY2026 RPW1 ELMS course page** for:
 - Plagiarism and generative AI rules
 - Slides, questionnaires, and assignments
 
-The AY2026 plan used periods 9–10, (17:00–18:40), Mon, Tue, or Wed.
-Check the current schedule before each class. We will also notify via ELMS, please check your email.
+Planned class time: periods 9–10, **17:00–18:40**, on Monday, Tuesday, or Wednesday.
+Check ELMS and your email for the date of each class and any changes.
 
 <!--
 Presenter notes
@@ -209,16 +233,17 @@ Use the **AY2026 RPW1 course page** for:
 - Plagiarism and generative AI rules
 - Slides, questionnaires, and assignments
 
-The AY2026 plan used periods 9–10, **17:00–18:40**.
-Check the current schedule before each class. We will also notify via ELMS, please check your email.
+Planned class time: periods 9–10, **17:00–18:40**, on Monday, Tuesday, or Wednesday.
+Check ELMS and your email for the date of each class and any changes.
 
-Source slide 83 asks students to reserve Monday–Wednesday. No AY2026 schedule is supplied. Old activity URLs are intentionally omitted.
+The working deck supplies the planned time. Specific AY2026 class dates must be checked in ELMS.
+Old activity URLs are intentionally omitted.
 -->
 
 
 ---
 
-# Final/Midterm assignment
+# Midterm and final assignment
 
 ![w:1100 h:410](images/diagrams/final-assignment.svg)
 
@@ -243,7 +268,7 @@ Ask students: How will you check that you have addressed comments from all three
 # Individual work and course rules
 
 
-The AY2026 rules are posted on ELMS: 
+The AY2026 rules are posted on ELMS:
 
 - Individual authorship and permitted help
 - Citation and reuse of research material
@@ -257,21 +282,25 @@ Ask the instructors if a rule is unclear.
 
 # Grading
 
-- 50%: Course activities
-    - Your paper assessment counts toward this.
-- 50%: Final assignment
-    - Has two rounds
+- **50%: Class activities**, including your peer reviews
+- **50%: Paper draft**, with midterm and final rounds
+
+Check ELMS for the detailed rubric and deadlines.
+
+<!-- The 50/50 split is confirmed by the AY2026 syllabus. The working deck supplies the review rounds.
+Source: https://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2026_2_E_008.html (checked 2026-10-02).
+-->
 
 ---
 
-# Session-01: Q&A and Survey 
+# Session 01: Q&A and survey
 
 ![w:1100 h:310](images/diagrams/student-survey.svg)
 ![bg right:20% contain](images/diagrams/SS1-quiz.svg)
 
 - Open ELMS: [https://elms.u-aizu.ac.jp/](https://elms.u-aizu.ac.jp/)
-- Please answer the questionaire in 10 min.
-- The survey will be closed after 17:50.
+- Please complete the questionnaire in 10 minutes.
+- The survey closes at **17:50**.
 
 <!--
 Presenter notes
@@ -285,7 +314,7 @@ Answer the Session 01 questionnaire, if available.
 - What is difficult about paper writing?
 - What would you like to learn?
 
-Allow about 10 minutes.
+Allow about 10 minutes. Confirm the 17:50 closing time in ELMS before class.
 
 
 -->
@@ -305,13 +334,12 @@ Allow about 10 minutes.
 
 ---
 
-# A  research paper tells
+# What a research paper explains
 
 
 ![w:1100 h:270](images/diagrams/research-paper.svg)
 
 <div class="two-column-list">
-
 
 
 - What problem the research addresses
@@ -398,9 +426,9 @@ Writing is part of thinking about the problem.
 
 ---
 
-# Why RPW1 in the era of LLM?
+# Why RPW1 in the era of LLMs?
 
-- LLMs and Generative AIs have been massively changed.
+- Large language models (LLMs) can help draft and revise text.
 
 ![w:1100 h:340](images/why-rpw1-llm.svg)
 
@@ -412,29 +440,29 @@ what evidence would you need before including it in your paper? -->
 
 ---
 
-# Importance of knowing how to write properly
+# Benefits of research writing
 
 Academic:
-- Builds analytical, critical thinking, and designing skills. 
-- Enhances understanding of the new technology.
-- Improve representation skills
+- Develops analytical thinking and study design skills.
+- Deepens understanding of the research topic.
+- Improves how you explain methods and results.
 
 Professional:
-- Demonstrates expertise in cutting-edge technologies.
-- Prepares for higher academic or R&D positions in industry.
+- Helps you communicate your expertise.
+- Supports preparation for academic and industrial R&D roles.
 
 Personal:
 - Encourages intellectual curiosity.
 
 ---
 
-# What can RPW1 lead you to
+# Skills you can use beyond RPW1
 
-- **Write your paper!**
-- Better at your job interview
-- Write a patent 
-- Write a proposal for funding
-- Pitching your idea for a new startup company
+- **Write a research paper**
+- Explain your work in a job interview
+- Describe an invention in a patent application
+- Write a funding proposal
+- Pitch an idea for a startup
 
 
 ---
@@ -450,7 +478,7 @@ Possible replies:
 - “Buy cheaper GPUs.”
 - “Rent cheaper computing resources.”
 - “Measure the costs first.”
-- "Reduce our salaries!"
+- “Reduce our salaries!”
 
 Which reply helps us understand the problem?
 <!--
@@ -463,8 +491,9 @@ Presenter notes
 Possible replies:
 
 - “Buy cheaper GPUs.”
-- “Rent computing resources.”
+- “Rent cheaper computing resources.”
 - “Measure the costs first.”
+- “Reduce our salaries!”
 
 Which reply helps us understand the problem?
 
@@ -473,7 +502,7 @@ Adapted from source slides 19–21. Illustration: Irasutoya, as credited in the 
 
 ---
 
-# A clear problem is all you need
+# Defining the research problem
 
 ![w:1100 h:310](images/diagrams/clear-problem.svg)
 
@@ -500,7 +529,7 @@ Adapted from slides 22–24. Illustration: Irasutoya.
 
 ---
 
-# Evidence from earlier works
+# Evidence from earlier work
 
 ![w:1100 h:410](images/diagrams/earlier-work.svg)
 
@@ -529,8 +558,8 @@ Source slides 25–30 mix training and inference and assert an unsupported DVFS 
 
 ![w:1100 h:310](images/diagrams/focused-question.svg)
 
-Example of research question: 
-- **Can clock settings reduce energy while meeting a time limit?**
+Example research question:
+- **Can GPU clock settings reduce training energy within a time limit?**
 
 <!--
 Presenter notes
@@ -598,7 +627,7 @@ Adapted from slides 33–36.
 
 ---
 
-# Process of a paper
+# The research and writing process
 
 ---
 
@@ -634,7 +663,7 @@ A useful question is:
 
 Example:
 - Weak: How does AI improve healthcare?
-- Better: How do data preprocessing and augmentation impact the accuracy of deep learning models in classifying chest X-ray images for Covid-19?
+- Better: How does image augmentation affect a fixed model’s COVID-19 classification accuracy on a held-out chest X-ray test set?
 
 
 <!--
@@ -650,6 +679,8 @@ A useful question is:
 **Activity:** Write one question about your own research.
 What evidence would answer it?
 
+The narrower example still needs a specified model, dataset, augmentation method,
+baseline, and evaluation protocol. It is a hypothetical study, not a medical claim.
 
 -->
 
@@ -663,7 +694,7 @@ What evidence would answer it?
 - Identify existing research gaps.
 - Support the development of your methodology.
 
-> We will cover this in Session-02
+> We will cover this in Session 02.
 
 <!--
 Presenter notes
@@ -688,9 +719,11 @@ Compare papers. Explain the differences between them.
 
 ![w:1100 h:310](images/diagrams/finding-papers.svg)
 
-[Google Scholar](https://scholar.google.com/) · [IEEE Xplore](https://ieeexplore.ieee.org/) · [ACM DL](https://dl.acm.org/) · [arXiv](https://arxiv.org/) · **New Trend: AI tool?**
+[Google Scholar](https://scholar.google.com/) · [IEEE Xplore](https://ieeexplore.ieee.org/) · [ACM DL](https://dl.acm.org/) · [arXiv](https://arxiv.org/)
 
-> We will cover this in Session-02
+AI search tools can help. Verify papers and references against the original sources.
+
+> We will cover this in Session 02.
 
 <!--
 Presenter notes
@@ -710,7 +743,7 @@ Check whether a paper has completed peer review.
 
 ---
 
-# Paper structure 
+# Paper structure
 
 ![w:1100 h:410](images/diagrams/paper-opening.svg)
 
@@ -733,7 +766,7 @@ Section names and order depend on the field and venue.
 
 ---
 
-# Paper structure (cnt.)
+# Paper structure (continued)
 
 ![w:1100 h:410](images/diagrams/paper-main.svg)
 
@@ -761,9 +794,9 @@ Some papers combine sections or use different names.
 
 ![w:1100 h:310](images/diagrams/citations.svg)
 
-- Cite your own previous work when you reuse or extend it. 
+- Cite your own previous work when you reuse or extend it.
 - Be cautious of AI hallucinations, and verify AI-generated claims and references.
-- Permission may be needed for reproducing.
+- Check permissions before reproducing figures, tables, or text.
 
 <!--
 Presenter notes
@@ -805,8 +838,6 @@ Publisher reference: https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-j
 -->
 
 
-
-
 ---
 # Revision
 
@@ -834,7 +865,6 @@ Ask a reader to explain your main point back to you.
 # Common problems in a draft
 
 
-
 - A broad problem with no clear research question
 - A contribution that readers cannot identify
 - Claims without enough evidence
@@ -854,14 +884,17 @@ Fix the main argument before polishing individual sentences.
 | --- | --- |
 | Writing and formatting | Word, LaTeX, Overleaf |
 | Managing references | Zotero, JabRef, Mendeley |
-| Writing guidance | LLM (?) |
-| Plagiarism checkers | Turnitin, iThenticate |
+| Drafting and revision support | LLMs, where permitted |
+| Similarity checking | Turnitin, iThenticate |
 | Grammar check | Grammarly |
 
 
 Choose tools that fit your supervisor’s workflow and the venue.
 Check the output yourself.
 
+<!-- A similarity score requires interpretation. It does not by itself establish plagiarism.
+Generative AI use depends on course and venue rules.
+-->
 
 ---
 
@@ -873,20 +906,20 @@ Check the output yourself.
 # Peer review
 
 
-**Peer review** is a process in which other researchers assess the quality and validity of a submitted paper. A typical peer-review process involves:
+**Peer review** asks other researchers to assess a paper’s quality and validity.
 
-1. **Publisher / Editorial Office**
-   - Checks whether the paper is properly formatted and within the venue's scope.
-   - If it does not meet the basic requirements → **Desk rejection**
+1. **Initial screening: editorial office and editor / chair**
+   - The office checks format and required information.
+   - The editor or chair checks scope and suitability for review.
+   - The paper may be returned for corrections or **rejected before review**.
 
-2. **Editor / Associate Editor / Track-Chair / Area Chair**
-   - Manages the review process.
-   - Invites appropriate reviewers.
-   - Evaluates the reviewers' comments and recommends a decision.
+2. **Handling editor / area or track chair**
+   - Assigns reviewers and manages the review process.
+   - Considers reports and recommends or makes a decision.
 
 ---
 
-# Peer review (cnt.)
+# Peer review (continued)
 
 
 3. **Reviewers**
@@ -894,11 +927,17 @@ Check the output yourself.
    - Assess its novelty, technical quality, clarity, and significance.
    - Are usually anonymous, depending on the venue's review policy.
 
-4. **Editor-in-Chief / Associate Editor / TPC Co-Chairs  / Track-Chair / Area Chair**
-   - Review the paper, reviewers' comments, and recommendations.
-   - Make or approve the **final decision**.
+4. **Decision authority: editor or program committee leadership**
+   - Considers the paper, review reports, and recommendations.
+   - Makes or approves the **final decision**, under the venue’s policy.
 
-The structure is not always strictly followed. It may vary slightly depending on the venue and the scale of the publication.
+Roles and decision authority vary by venue.
+
+<!-- TPC means technical program committee. Reviewers advise; editors or conference leadership decide.
+Sources (checked 2026-10-02):
+https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/about-the-peer-review-process/
+https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/understanding-the-decision-process/
+-->
 
 
 ---
@@ -906,7 +945,6 @@ The structure is not always strictly followed. It may vary slightly depending on
 # Before submission
 
 ![w:1100 h:410](images/diagrams/before-submission.svg)
-
 
 
 ---
@@ -931,7 +969,6 @@ The number of reviewers and steps depend on the venue.
 Adapted from slides 48, 52–55.
 Source: https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/about-the-peer-review-process/ (checked 2026-10-01).
 -->
-
 
 
 ---
@@ -964,7 +1001,7 @@ Source: https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-
 
 ![w:1100 h:410](images/diagrams/review-decisions.svg)
 
-NOTE: A revision/rebuttal request does not guarantee acceptance. 
+**A request for revision or an author response does not guarantee acceptance.**
 
 <!--
 Presenter notes
@@ -1032,16 +1069,16 @@ Source: https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-
 -->
 ---
 
-# Some notes
+# Reviewers and decision makers
 
 - Reviewers are usually experts in the specific research field.
 
-- Editor-in-Chief / TPC Co-Chairs
+- Editors and program committee chairs
     - Have broad knowledge of the research area.
     - May not be experts in every specific topic.
     - Usually give significant consideration to the reviewers' recommendations when making the final decision.
 
-> How to revise: we will cover this topic  in Session 10
+> Revision and rebuttal: we will cover this in Session 11.
 
 ---
 
@@ -1077,8 +1114,8 @@ https://conferences.ieeeauthorcenter.ieee.org/understand-peer-review/
 ![w:1100 h:280](images/diagrams/clear-writing.svg)
 
 - Precision matters more than impressive language.
-- Editors and reviewers are busy — make your paper clear and easy to follow from the beginning.
-- If they cannot understand, they are more likely to reject it.
+- Clear explanations help busy editors and reviewers assess your work.
+- Readers need to understand the contribution and its supporting evidence.
 <!--
 Presenter notes
 
@@ -1169,7 +1206,6 @@ Adapted from slides 77–78. Removed universal page counts and fixed review time
 # Choosing a publication venue
 
 
-
 Discuss the choice with your supervisor.
 
 - Does the venue publish work on your topic?
@@ -1209,17 +1245,22 @@ Learn from the structure. Write your own explanation.
 
 ---
 
-# Good journal/conference papers
+# Venue rankings and citation metrics
 
-- Reputation:
-    - Has papers from top professors/researchers
-- Conference/journal ranking:
-    - CORE ranking (https://portal.core.edu.au/conf-ranks/)
-    - CCF ranking, SCIMAGO ranking
-    - Google Scholar Metrics (https://scholar.google.com.vn/citations?view_op=metrics_intro&hl=en
-- Impact factors of the venues
-- Number of citations
-- **RECOMMENDATION: Ask your supervisors!!**
+- Computing venue lists: [ICORE (formerly CORE)](https://portal.core.edu.au/conf-ranks/) and CCF
+- Journal indicators: SCImago Journal Rank and Journal Impact Factor
+- Publication citation metrics: [Google Scholar Metrics](https://scholar.google.com/intl/en/scholar/metrics.html)
+
+These indicators provide context. They do not establish the quality of an individual paper.
+
+**Read the papers and discuss venue choices with your supervisor.**
+
+<!-- Sources (checked 2026-10-02):
+https://portal.core.edu.au/conf-ranks/
+https://scholar.google.com/intl/en/scholar/metrics.html
+https://sfdora.org/read/
+Journal Impact Factor is a journal metric. Assess each paper's methods, evidence, and relevance.
+-->
 
 
 ---
@@ -1254,8 +1295,6 @@ Source slide 85.
 # Four points to remember
 
 
-
-
 ![bg right:28% contain](images/image28.png)
 
 - Be precise.
@@ -1266,14 +1305,19 @@ Source slide 85.
 
 ---
 
-# Preparation for Session 02
+# to Advance Knowledge<br>for Humanity
 
-![w:1100 h:410](images/diagrams/next-session.svg)
+Our founding principle calls us to **invent** and **discover** for the peace and prosperity of humankind.
 
-Next: Literature survey and review
+![bg right:48% contain](images/UoA_motto.jpg)
+
 
 <!--
 Presenter notes
+
+Source for the motto and its meaning: https://u-aizu.ac.jp/en/intro/ (checked 2026-10-02).
+
+Preparation for Session 02:
 
 Open the **AY2026 RPW1 course in ELMS**.
 
@@ -1293,7 +1337,7 @@ The research-topic preparation is a suggested class preparation, not a new grade
 
 ## Questions?
 
-Research Paper Writing 1
+Research Paper Writing Seminar I (RPW1)
 Session 01, AY2026
 
 Next topic: Literature survey and review
