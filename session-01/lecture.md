@@ -23,13 +23,13 @@ Confirm the 2026 teaching team, schedule, ELMS activities, and assessment rules 
 
 
 
-# Today’s topics
+# Agenda
 
-- Course overview and student survey
+- Course overview 
 - Research papers and why we write them
 - The research and writing process
 - Peer review and revision
-- Clear writing and course assignments
+- Q&A and Recap
 
 ---
 
@@ -102,6 +102,7 @@ Source: slides 5–6. Career choices and support categories overlap.
 - Organizing sections and connecting ideas
 - Academic English and word choice
 - Choosing a research topic
+- Related Works
 - Using LaTeX
 
 
@@ -110,14 +111,14 @@ Source: slides 5–6. Career choices and support categories overlap.
 # Course goals
 
 <!-- ![w:1100 h:300](images/diagrams/course-goals.svg) -->
-What RP1 is about:
+### What RP1 is about:
 
 - Understand the structure of a research paper.
 - Develop skills for research paper writing.
 - Learn the submission policy, such as citations and ethical writing.
 
 
-What RPW1 is NOT:
+### What RPW1 is NOT:
 - Your supervisor guides your research.
 - This course focuses on research writing, rather than general English lessons.
 
@@ -399,11 +400,12 @@ Writing is part of thinking about the problem.
 
 # Why RPW1 in the era of LLM?
 
-
+- LLMs and Generative AIs have been massively changed.
 
 ![w:1100 h:340](images/why-rpw1-llm.svg)
 
-**You need to build and check a clear research argument.**
+
+- **You need to build and check a clear research argument.**
 
 <!-- LLM means large language model. Ask: If an LLM writes a convincing sentence,
 what evidence would you need before including it in your paper? -->
