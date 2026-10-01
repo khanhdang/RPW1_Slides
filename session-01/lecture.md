@@ -7,10 +7,10 @@ author: RPW1 Team
 footer: 'RPW1 · AY2026 · Session 01'
 ---
 
-# Research Paper Writing 1
+# Research Paper Writing Seminar I (RPW1)
 
-## Session 01: Introduction
-### Academic Year 2026, Q3 and Q4
+## Session 01: Introduction to RPW1
+### AY 2026, S2 (Q3 and Q4)
 
 RPW1 Team
 University of Aizu
@@ -18,38 +18,10 @@ University of Aizu
 <!-- Source: AY2025_lect1 - intro.pptx. Adapted for AY2026.
 Confirm the 2026 teaching team, schedule, ELMS activities, and assessment rules before class.
 -->
-<!-- 
+
 --- 
 
-# A bit about myself
 
-- DANG Nam Khanh
-  - Vietnam National Univeristy, Hanoi ('11), Paris-Sud University ('14), University of Aizu ('17)
-- Position: Associate Professor
-- Experiences:
-  - Editors: 2 Major Journal
-  - Guest Editors: 5 special sessions
-  - TPC co-chairs: 4 IEEE Conferences 
-
-- With my supervised students:
-  - Book chapters: 3
-  - Patents: 4
-  - Conference (IEEE): 10+
-  - Journal (IEEE Transactions): 3 -->
---- 
-
-# Why RPW1 in the era of LLM?
-
-An LLM can help with text. You still need to judge the research.
-
-![w:1100 h:340](images/why-rpw1-llm.svg)
-
-**RPW1 teaches you to build and check a clear research argument.**
-
-<!-- LLM means large language model. Ask: If an LLM writes a convincing sentence,
-what evidence would you need before including it in your paper? -->
-
----
 
 # Today’s topics
 
@@ -74,31 +46,6 @@ The teaching team included:
 **We also have several invited lecturers!**
 
 
-
----
-
-# Session-01 survey
-
-![w:1100 h:410](images/diagrams/student-survey.svg)
-
-[→ Open ELMS](https://elms.u-aizu.ac.jp/)
-
-<!--
-Presenter notes
-
-Open [ELMS](https://elms.u-aizu.ac.jp/) and find **RPW1, AY2026**.
-
-Answer the Session 01 questionnaire, if available.
-
-- What research experience do you have?
-- Have you written a paper before?
-- What is difficult about paper writing?
-- What would you like to learn?
-
-Allow about 10 minutes.
-
-
--->
 
 ---
 
@@ -162,8 +109,15 @@ Source: slides 5–6. Career choices and support categories overlap.
 
 # Course goals
 
-![w:1100 h:300](images/diagrams/course-goals.svg)
+<!-- ![w:1100 h:300](images/diagrams/course-goals.svg) -->
+What RP1 is about:
 
+- Understand the structure of a research paper.
+- Develop skills for research paper writing.
+- Learn the submission policy, such as citations and ethical writing.
+
+
+What RPW1 is NOT:
 - Your supervisor guides your research.
 - This course focuses on research writing, rather than general English lessons.
 
@@ -179,9 +133,7 @@ The course uses examples from computer science and engineering.
 - Theory and algorithms
 - AI, graphics, and multimedia
 - Human–computer interaction
-
-Apply the writing principles to your own field.
-
+- and others.
 
 ---
 
@@ -236,14 +188,14 @@ This is the topic plan from the source, not a confirmed AY2026 timetable.
 
 # Course information in ELMS
 
-Use the **AY2026 RPW1 course page** for:
+Use the **AY2026 RPW1 ELMS course page** for:
 
 - Class dates, rooms, and schedule changes
 - Attendance and grading rules
 - Plagiarism and generative AI rules
 - Slides, questionnaires, and assignments
 
-The AY2026 plan used periods 9–10, **17:00–18:40**, Mon, Tue, or Wed.
+The AY2026 plan used periods 9–10, (17:00–18:40), Mon, Tue, or Wed.
 Check the current schedule before each class. We will also notify via ELMS, please check your email.
 
 <!--
@@ -262,16 +214,111 @@ Check the current schedule before each class. We will also notify via ELMS, plea
 Source slide 83 asks students to reserve Monday–Wednesday. No AY2026 schedule is supplied. Old activity URLs are intentionally omitted.
 -->
 
+
+---
+
+# Final/Midterm assignment
+
+![w:1100 h:410](images/diagrams/final-assignment.svg)
+
+**Your final draft must address concerns from all three midterm reviewers.**
+
+<!--
+Presenter notes
+
+AY2026 assignment flow:
+1. Each student writes an individual paper draft.
+2. At midterm, three students review each draft independently.
+3. The author reads all three reviews and revises the paper for the final submission.
+4. The final draft must address every concern. Explain the changes made. If you disagree with a concern, explain why and support your response with evidence.
+5. Three students review each final draft in the final review round.
+6. Instructors grade both the paper drafts and the student reviews.
+
+Ask students: How will you check that you have addressed comments from all three reviewers?
+-->
+
+---
+
+# Individual work and course rules
+
+
+The AY2026 rules are posted on ELMS: 
+
+- Individual authorship and permitted help
+- Citation and reuse of research material
+- Generative AI use and disclosure
+- Submission format and review responsibilities
+
+Ask the instructors if a rule is unclear.
+
+
+---
+
+# Grading
+
+- 50%: Course activities
+    - Your paper assessment counts toward this.
+- 50%: Final assignment
+    - Has two rounds
+
+---
+
+# Session-01: Q&A and Survey 
+
+![w:1100 h:310](images/diagrams/student-survey.svg)
+![bg right:20% contain](images/diagrams/SS1-quiz.svg)
+
+- Open ELMS: [https://elms.u-aizu.ac.jp/](https://elms.u-aizu.ac.jp/)
+- Please answer the questionaire in 10 min.
+- The survey will be closed after 17:50.
+
+<!--
+Presenter notes
+
+Open [ELMS](https://elms.u-aizu.ac.jp/) and find **RPW1, AY2026**.
+
+Answer the Session 01 questionnaire, if available.
+
+- What research experience do you have?
+- Have you written a paper before?
+- What is difficult about paper writing?
+- What would you like to learn?
+
+Allow about 10 minutes.
+
+
+-->
+
 ---
 
 # What is a research paper?
 
 
-A research paper explains a question and what the authors learned.
-It tells readers:
+---
 
-![w:1100 h:310](images/diagrams/research-paper.svg)
+# Common types of research papers
 
+![w:1100 h:450](images/diagrams/paper-types.svg)
+
+<!-- Paper types can overlap. Each has a main contribution.  -->
+
+---
+
+# A  research paper tells
+
+
+![w:1100 h:270](images/diagrams/research-paper.svg)
+
+<div class="two-column-list">
+
+
+
+- What problem the research addresses
+- How the work relates to earlier studies
+- What the authors did
+- What evidence supports the conclusions
+- What limits remain
+</div>
 
 <!--
 Presenter notes
@@ -323,6 +370,11 @@ Paper: https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf
 
 ---
 
+# Why RPW1?
+
+
+---
+
 # Why research writing matters
 
 ![w:1100 h:410](images/diagrams/writing-matters.svg)
@@ -342,6 +394,47 @@ Writing is part of thinking about the problem.
 
 -->
 
+
+---
+
+# Why RPW1 in the era of LLM?
+
+
+
+![w:1100 h:340](images/why-rpw1-llm.svg)
+
+**You need to build and check a clear research argument.**
+
+<!-- LLM means large language model. Ask: If an LLM writes a convincing sentence,
+what evidence would you need before including it in your paper? -->
+
+---
+
+# Importance of knowing how to write properly
+
+Academic:
+- Builds analytical, critical thinking, and designing skills. 
+- Enhances understanding of the new technology.
+- Improve representation skills
+
+Professional:
+- Demonstrates expertise in cutting-edge technologies.
+- Prepares for higher academic or R&D positions in industry.
+
+Personal:
+- Encourages intellectual curiosity.
+
+---
+
+# What can RPW1 lead you to
+
+- **Write your paper!**
+- Better at your job interview
+- Write a patent 
+- Write a proposal for funding
+- Pitching your idea for a new startup company
+
+
 ---
 
 # Example: LLM training costs
@@ -353,8 +446,9 @@ Writing is part of thinking about the problem.
 Possible replies:
 
 - “Buy cheaper GPUs.”
-- “Rent computing resources.”
+- “Rent cheaper computing resources.”
 - “Measure the costs first.”
+- "Reduce our salaries!"
 
 Which reply helps us understand the problem?
 <!--
@@ -377,11 +471,11 @@ Adapted from source slides 19–21. Illustration: Irasutoya, as credited in the 
 
 ---
 
-# A clear problem
+# A clear problem is all you need
 
-![w:1100 h:410](images/diagrams/clear-problem.svg)
+![w:1100 h:310](images/diagrams/clear-problem.svg)
 
-Measure before choosing a solution.
+The problem must be **clearly defined.**
 
 <!--
 Presenter notes
@@ -404,11 +498,11 @@ Adapted from slides 22–24. Illustration: Irasutoya.
 
 ---
 
-# Evidence from earlier work
+# Evidence from earlier works
 
 ![w:1100 h:410](images/diagrams/earlier-work.svg)
 
-A trusted source still needs careful reading.
+A trusted source still needs **careful reading**.
 
 <!--
 Presenter notes
@@ -431,9 +525,10 @@ Source slides 25–30 mix training and inference and assert an unsupported DVFS 
 
 # A focused research question
 
-![w:1100 h:410](images/diagrams/focused-question.svg)
+![w:1100 h:310](images/diagrams/focused-question.svg)
 
-Can clock settings reduce energy while meeting a time limit?
+Example of research question: 
+- **Can clock settings reduce energy while meeting a time limit?**
 
 <!--
 Presenter notes
@@ -456,7 +551,7 @@ Hypothetical question adapted from slides 27–31. DVFS means dynamic voltage an
 
 ![w:1100 h:410](images/diagrams/fair-test.svg)
 
-Explain where the method helps or fails.
+<!-- Explain where the method helps or fails. -->
 
 <!--
 Presenter notes
@@ -481,7 +576,7 @@ Teaching scenario adapted from slides 32–35. Illustration: Irasutoya. The sour
 
 ![w:1100 h:410](images/diagrams/report-result.svg)
 
-Keep the conclusion within the evidence.
+<!-- Keep the conclusion within the evidence. -->
 
 <!--
 Presenter notes
@@ -498,6 +593,10 @@ A strong claim needs strong support.
 
 Adapted from slides 33–36.
 -->
+
+---
+
+# Process of a paper
 
 ---
 
@@ -531,8 +630,10 @@ A useful question is:
 - Possible to answer with available resources
 - Important to the research community
 
-**Activity:** Write one question about your own research.
-What evidence would answer it?
+Example:
+- Weak: How does AI improve healthcare?
+- Better: How do data preprocessing and augmentation impact the accuracy of deep learning models in classifying chest X-ray images for Covid-19?
+
 
 <!--
 Presenter notes
@@ -554,9 +655,13 @@ What evidence would answer it?
 
 # Literature review
 
-![w:1100 h:410](images/diagrams/literature-review.svg)
+![w:1100 h:210](images/diagrams/literature-review.svg)
 
-Explain how earlier work relates to your question.
+- Explain how earlier work relates to your question.
+- Identify existing research gaps.
+- Support the development of your methodology.
+
+> We will cover this in Session-02
 
 <!--
 Presenter notes
@@ -579,9 +684,11 @@ Compare papers. Explain the differences between them.
 
 # Finding relevant papers
 
-![w:1100 h:410](images/diagrams/finding-papers.svg)
+![w:1100 h:310](images/diagrams/finding-papers.svg)
 
-[Google Scholar](https://scholar.google.com/) · [IEEE Xplore](https://ieeexplore.ieee.org/) · [ACM DL](https://dl.acm.org/) · [arXiv](https://arxiv.org/)
+[Google Scholar](https://scholar.google.com/) · [IEEE Xplore](https://ieeexplore.ieee.org/) · [ACM DL](https://dl.acm.org/) · [arXiv](https://arxiv.org/) · **New Trend: AI tool?**
+
+> We will cover this in Session-02
 
 <!--
 Presenter notes
@@ -601,7 +708,7 @@ Check whether a paper has completed peer review.
 
 ---
 
-# Paper structure: The opening
+# Paper structure 
 
 ![w:1100 h:410](images/diagrams/paper-opening.svg)
 
@@ -624,7 +731,7 @@ Section names and order depend on the field and venue.
 
 ---
 
-# Paper structure: The main content
+# Paper structure (cnt.)
 
 ![w:1100 h:410](images/diagrams/paper-main.svg)
 
@@ -695,8 +802,10 @@ Course policy is available in AY2026 ELMS and was not provided here.
 Publisher reference: https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/ (checked 2026-10-01).
 -->
 
----
 
+
+
+---
 # Revision
 
 ![w:1100 h:410](images/diagrams/revision.svg)
@@ -744,6 +853,9 @@ Fix the main argument before polishing individual sentences.
 | Writing and formatting | Word, LaTeX, Overleaf |
 | Managing references | Zotero, JabRef, Mendeley |
 | Writing guidance | LLM (?) |
+| Plagiarism checkers | Turnitin, iThenticate |
+| Grammar check | Grammarly |
+
 
 Choose tools that fit your supervisor’s workflow and the venue.
 Check the output yourself.
@@ -751,21 +863,41 @@ Check the output yourself.
 
 ---
 
+# How will your papers be reviewed?
+
+
+---
+
 # Peer review
 
 
-Peer review asks other researchers to assess a paper.
+**Peer review** is a process in which other researchers assess the quality and validity of a submitted paper. A typical peer-review process involves:
 
-Reviewers examine:
+1. **Publisher / Editorial Office**
+   - Checks whether the paper is properly formatted and within the venue's scope.
+   - If it does not meet the basic requirements → **Desk rejection**
 
-- The question and contribution
-- The technical approach
-- The evidence and conclusions
-- The clarity of the explanation
+2. **Editor / Associate Editor / Track-Chair / Area Chair**
+   - Manages the review process.
+   - Invites appropriate reviewers.
+   - Evaluates the reviewers' comments and recommends a decision.
 
-The editor or program committee makes the decision.
+---
 
-Source: https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/about-the-peer-review-process/ (checked 2026-10-01).
+# Peer review (cnt.)
+
+
+3. **Reviewers**
+   - Are invited to evaluate the paper.
+   - Assess its novelty, technical quality, clarity, and significance.
+   - Are usually anonymous, depending on the venue's review policy.
+
+4. **Editor-in-Chief / Associate Editor / TPC Co-Chairs  / Track-Chair / Area Chair**
+   - Review the paper, reviewers' comments, and recommendations.
+   - Make or approve the **final decision**.
+
+The structure is not always strictly followed. It may vary slightly depending on the venue and the scale of the publication.
+
 
 ---
 
@@ -798,13 +930,15 @@ Adapted from slides 48, 52–55.
 Source: https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/about-the-peer-review-process/ (checked 2026-10-01).
 -->
 
+
+
 ---
 
 # Anonymous review and conflicts
 
 ![w:1100 h:410](images/diagrams/anonymous-review.svg)
 
-Follow the venue’s specific rules.
+<!-- Follow the venue’s specific rules. -->
 
 <!--
 Presenter notes
@@ -828,7 +962,7 @@ Source: https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-
 
 ![w:1100 h:410](images/diagrams/review-decisions.svg)
 
-A revision request does not guarantee acceptance. Check the venue’s procedure.
+NOTE: A revision/rebuttal request does not guarantee acceptance. 
 
 <!--
 Presenter notes
@@ -894,15 +1028,55 @@ Keep review material confidential.
 Adapted from slides 67–68.
 Source: https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/become-an-ieee-reviewer/ (checked 2026-10-01).
 -->
+---
+
+# Some notes
+
+- Reviewers are usually experts in the specific research field.
+
+- Editor-in-Chief / TPC Co-Chairs
+    - Have broad knowledge of the research area.
+    - May not be experts in every specific topic.
+    - Usually give significant consideration to the reviewers' recommendations when making the final decision.
+
+> How to revise: we will cover this topic  in Session 10
+
+---
+
+# Peer review: overall flow
+
+![w:1100 h:430](images/diagrams/peer-review-flow.svg)
+
+Typical journal process. Conference review may have fewer revision rounds.
+
+<!--
+Presenter notes
+
+Reviewers advise. The editor makes the decision, sometimes under the oversight
+of the Editor-in-Chief. Initial screening can lead to rejection before external review.
+Revisions may go back to reviewers or be assessed by the editor.
+For conferences, area chairs and program committee chairs may handle these roles.
+Many conferences do not offer a revision round.
+
+Sources:
+https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/about-the-peer-review-process/
+https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/understanding-the-decision-process/
+https://conferences.ieeeauthorcenter.ieee.org/understand-peer-review/
+-->
+
+---
+
+# Some modest suggestions
 
 ---
 
 # Clear scientific writing
 
-![w:1100 h:410](images/diagrams/clear-writing.svg)
+![w:1100 h:280](images/diagrams/clear-writing.svg)
 
-Precision matters more than impressive language.
-
+- Precision matters more than impressive language.
+- Editors and reviewers are busy — make your paper clear and easy to follow from the beginning.
+- If they cannot understand, they are more likely to reject it.
 <!--
 Presenter notes
 
@@ -947,7 +1121,7 @@ Replaces unsupported numerical claims in the source with an explicitly hypotheti
 
 ![w:1100 h:410](images/diagrams/writing-readers.svg)
 
-Use consistent names and symbols.
+<!-- Use consistent names and symbols. -->
 
 <!--
 Presenter notes
@@ -1033,41 +1207,22 @@ Learn from the structure. Write your own explanation.
 
 ---
 
-# Final/Midterm assignment
+# Good journal/conference papers
 
-![w:1100 h:410](images/diagrams/final-assignment.svg)
+- Reputation:
+    - Has papers from top professors/researchers
+- Conference/journal ranking:
+    - CORE ranking (https://portal.core.edu.au/conf-ranks/)
+    - CCF ranking, SCIMAGO ranking
+    - Google Scholar Metrics (https://scholar.google.com.vn/citations?view_op=metrics_intro&hl=en
+- Impact factors of the venues
+- Number of citations
+- **RECOMMENDATION: Ask your supervisors!!**
 
-**Your final draft must address concerns from all three midterm reviewers.**
-
-<!--
-Presenter notes
-
-AY2026 assignment flow:
-1. Each student writes an individual paper draft.
-2. At midterm, three students review each draft independently.
-3. The author reads all three reviews and revises the paper for the final submission.
-4. The final draft must address every concern. Explain the changes made. If you disagree with a concern, explain why and support your response with evidence.
-5. Three students review each final draft in the final review round.
-6. Instructors grade both the paper drafts and the student reviews.
-
-Ask students: How will you check that you have addressed comments from all three reviewers?
--->
 
 ---
 
-# Individual work and course rules
-
-
-The AY2026 rules:
-
-- Individual authorship and permitted help
-- Citation and reuse of research material
-- Generative AI use and disclosure
-- Submission format and review responsibilities
-
-Ask the instructors if a rule is unclear.
-
-
+# Q&A time
 
 ---
 
@@ -1075,7 +1230,9 @@ Ask the instructors if a rule is unclear.
 
 ![w:1100 h:410](images/diagrams/questions.svg)
 
-What would you like to ask about the course?
+---
+
+# What would you like to ask about the course?
 
 <!--
 Presenter notes
@@ -1102,7 +1259,7 @@ Source slide 85.
 - Be precise.
 - Use simple language.
 - Improve the paper through revision.
-- Focus on quality rather than length.
+- Focus on quality rather than quantity.
 
 
 ---

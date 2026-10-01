@@ -1,1 +1,218 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="410" viewBox="0 0 1100 410" role="img" aria-labelledby="title desc"><title id="title">Finding relevant papers</title><desc id="desc">Diagram labels: Search. Topic or method. Read. Relevant papers. Follow citations. Earlier and later work. Check. Peer-review status.</desc><defs><marker id="a" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 5 L0 10" fill="none" stroke="#77756d" stroke-width="2" /></marker></defs><g font-family="Aptos, Segoe UI, Arial, sans-serif"><g transform="translate(140.0 137) scale(1)" fill="none" stroke="#b37218" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="-6" cy="-6" r="24" /><path d="M12 12 L34 34" /></g><text x="140.0" y="223" fill="#30302b" font-size="27" text-anchor="middle" font-weight="700">Search</text><text x="140.0" y="264" fill="#30302b" font-size="23" text-anchor="middle">Topic or method</text><path d="M195.0 137 H358.3333333333333" fill="none" stroke="#77756d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#a)" /><g transform="translate(413.3333333333333 137) scale(1)" fill="none" stroke="#466e7b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M0-24 C-15-34-30-32-38-26 V31 C-22 24-12 27 0 35 C12 27 22 24 38 31 V-26 C30-32 15-34 0-24 V35" /></g><text x="413.3333333333333" y="223" fill="#30302b" font-size="27" text-anchor="middle" font-weight="700">Read</text><text x="413.3333333333333" y="264" fill="#30302b" font-size="23" text-anchor="middle">Relevant papers</text><path d="M468.3333333333333 137 H631.6666666666666" fill="none" stroke="#77756d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#a)" /><g transform="translate(686.6666666666666 137) scale(1)" fill="none" stroke="#b37218" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M-4-18 L6-28 C29-50 50-20 25-1 L14 9 M4 18 L-6 28 C-29 50-50 20-25 1 L-14-9 M-13 13 L13-13" /></g><text x="686.6666666666666" y="223" fill="#30302b" font-size="27" text-anchor="middle" font-weight="700">Follow citations</text><text x="686.6666666666666" y="264" fill="#30302b" font-size="23" text-anchor="middle">Earlier and later work</text><path d="M741.6666666666666 137 H905.0" fill="none" stroke="#77756d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#a)" /><g transform="translate(960.0 137) scale(1)" fill="none" stroke="#466e7b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="32" /><path d="M-17 0 L-4 13 L19-15" /></g><text x="960.0" y="223" fill="#30302b" font-size="27" text-anchor="middle" font-weight="700">Check</text><text x="960.0" y="264" fill="#30302b" font-size="23" text-anchor="middle">Peer-review status</text></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="280"
+   viewBox="0 0 1100 280"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="finding-papers.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2898809"
+     inkscape:cx="586.10064"
+     inkscape:cy="-213.97325"
+     inkscape:window-width="2560"
+     inkscape:window-height="1649"
+     inkscape:window-x="0"
+     inkscape:window-y="273"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <title
+     id="title">Finding relevant papers</title>
+  <desc
+     id="desc">Diagram labels: Search. Topic or method. Read. Relevant papers. Follow citations. Earlier and later work. Check. Peer-review status.</desc>
+  <defs
+     id="defs1">
+    <marker
+       id="a"
+       markerWidth="12"
+       markerHeight="12"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 9,5 0,10"
+         fill="none"
+         stroke="#77756d"
+         stroke-width="2"
+         id="path1" />
+    </marker>
+  </defs>
+  <g
+     font-family="Aptos, 'Segoe UI', Arial, sans-serif"
+     id="g9"
+     transform="translate(0,-48)">
+    <g
+       transform="translate(140,137)"
+       fill="none"
+       stroke="#b37218"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g2">
+      <circle
+         cx="-6"
+         cy="-6"
+         r="24"
+         id="circle1" />
+      <path
+         d="M 12,12 34,34"
+         id="path2" />
+    </g>
+    <text
+       x="140"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text2">Search</text>
+    <text
+       x="140"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text3">Topic or method</text>
+    <path
+       d="M 195,137 H 358.33333"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path3" />
+    <g
+       transform="translate(413.33333,137)"
+       fill="none"
+       stroke="#466e7b"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g4">
+      <path
+         d="m 0,-24 c -15,-10 -30,-8 -38,-2 v 57 c 16,-7 26,-4 38,4 12,-8 22,-11 38,-4 v -57 c -8,-6 -23,-8 -38,2 v 59"
+         id="path4" />
+    </g>
+    <text
+       x="413.33334"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text4">Read</text>
+    <text
+       x="413.33334"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text5">Relevant papers</text>
+    <path
+       d="M 468.33333,137 H 631.66667"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path5" />
+    <g
+       transform="translate(686.66667,137)"
+       fill="none"
+       stroke="#b37218"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g6">
+      <path
+         d="M -4,-18 6,-28 c 23,-22 44,8 19,27 L 14,9 M 4,18 -6,28 C -29,50 -50,20 -25,1 l 11,-10 m 1,22 26,-26"
+         id="path6" />
+    </g>
+    <text
+       x="686.66669"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text6">Follow citations</text>
+    <text
+       x="686.66669"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text7">Earlier and later work</text>
+    <path
+       d="M 741.66667,137 H 905"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path7" />
+    <g
+       transform="translate(960,137)"
+       fill="none"
+       stroke="#466e7b"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g8">
+      <circle
+         cx="0"
+         cy="0"
+         r="32"
+         id="circle7" />
+      <path
+         d="M -17,0 -4,13 19,-15"
+         id="path8" />
+    </g>
+    <text
+       x="960"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text8">Check</text>
+    <text
+       x="960"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text9">Quality of the work?</text>
+  </g>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Finding relevant papers</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,1 +1,223 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="410" viewBox="0 0 1100 410" role="img" aria-labelledby="title desc"><title id="title">A focused research question</title><desc id="desc">Diagram labels: Broad topic. LLM training energy. Specific change. GPU clock settings. Fair comparison. Same workload. Constraints. Energy and time limit.</desc><defs><marker id="a" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 5 L0 10" fill="none" stroke="#77756d" stroke-width="2" /></marker></defs><g font-family="Aptos, Segoe UI, Arial, sans-serif"><g transform="translate(140.0 137) scale(1)" fill="none" stroke="#b37218" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M-12 20 C-12 9-27 1-27-15 C-27-49 27-49 27-15 C27 1 12 9 12 20 Z M-11 29 H11 M-6 37 H6" /></g><text x="140.0" y="223" fill="#30302b" font-size="27" text-anchor="middle" font-weight="700">Broad topic</text><text x="140.0" y="264" fill="#30302b" font-size="23" text-anchor="middle">LLM training energy</text><path d="M195.0 137 H358.3333333333333" fill="none" stroke="#77756d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#a)" /><g transform="translate(413.3333333333333 137) scale(1)" fill="none" stroke="#466e7b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="26" /><circle cx="0" cy="0" r="10" /><path d="M0-26 V-40 M0 26 V40 M26 0 H40 M-26 0 H-40 M18-18 L28-28 M18 18 L28 28 M-18 18 L-28 28 M-18-18 L-28-28" /></g><text x="413.3333333333333" y="223" fill="#30302b" font-size="27" text-anchor="middle" font-weight="700">Specific change</text><text x="413.3333333333333" y="264" fill="#30302b" font-size="23" text-anchor="middle">GPU clock settings</text><path d="M468.3333333333333 137 H631.6666666666666" fill="none" stroke="#77756d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#a)" /><g transform="translate(686.6666666666666 137) scale(1)" fill="none" stroke="#b37218" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M0-35 V35 M-21 35 H21 M-40-20 H40 M-25-20 L-40 9 H-10 Z M25-20 L10 9 H40 Z" /></g><text x="686.6666666666666" y="223" fill="#30302b" font-size="27" text-anchor="middle" font-weight="700">Fair comparison</text><text x="686.6666666666666" y="264" fill="#30302b" font-size="23" text-anchor="middle">Same workload</text><path d="M741.6666666666666 137 H905.0" fill="none" stroke="#77756d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#a)" /><g transform="translate(960.0 137) scale(1)" fill="none" stroke="#466e7b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="33" /><path d="M0-20 V0 L18 12" /></g><text x="960.0" y="223" fill="#30302b" font-size="27" text-anchor="middle" font-weight="700">Constraints</text><text x="960.0" y="264" fill="#30302b" font-size="23" text-anchor="middle">Energy and time limit</text></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="280"
+   viewBox="0 0 1100 280"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="focused-question.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.3326885"
+     inkscape:cx="172.54769"
+     inkscape:cy="291.08045"
+     inkscape:window-width="2560"
+     inkscape:window-height="1649"
+     inkscape:window-x="0"
+     inkscape:window-y="273"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <title
+     id="title">A focused research question</title>
+  <desc
+     id="desc">Diagram labels: Broad topic. LLM training energy. Specific change. GPU clock settings. Fair comparison. Same workload. Constraints. Energy and time limit.</desc>
+  <defs
+     id="defs1">
+    <marker
+       id="a"
+       markerWidth="12"
+       markerHeight="12"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 9,5 0,10"
+         fill="none"
+         stroke="#77756d"
+         stroke-width="2"
+         id="path1" />
+    </marker>
+  </defs>
+  <g
+     font-family="Aptos, 'Segoe UI', Arial, sans-serif"
+     id="g9"
+     transform="translate(0,-64)">
+    <g
+       transform="translate(140,137)"
+       fill="none"
+       stroke="#b37218"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g2">
+      <path
+         d="M -12,20 C -12,9 -27,1 -27,-15 -27,-49 27,-49 27,-15 27,1 12,9 12,20 Z m 1,9 H 11 M -6,37 H 6"
+         id="path2" />
+    </g>
+    <text
+       x="140"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text2">Broad topic</text>
+    <text
+       x="140"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text3">LLM training energy</text>
+    <path
+       d="M 195,137 H 358.33333"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path3" />
+    <g
+       transform="translate(413.33333,137)"
+       fill="none"
+       stroke="#466e7b"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g4">
+      <circle
+         cx="0"
+         cy="0"
+         r="26"
+         id="circle3" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         id="circle4" />
+      <path
+         d="M 0,-26 V -40 M 0,26 V 40 M 26,0 H 40 M -26,0 H -40 M 18,-18 28,-28 M 18,18 28,28 M -18,18 -28,28 m 10,-46 -10,-10"
+         id="path4" />
+    </g>
+    <text
+       x="413.33334"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text4">Specific change</text>
+    <text
+       x="413.33334"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text5">Reduce GPU power</text>
+    <path
+       d="M 468.33333,137 H 631.66667"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path5" />
+    <g
+       transform="translate(686.66667,137)"
+       fill="none"
+       stroke="#b37218"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g6">
+      <path
+         d="m 0,-35 v 70 m -21,0 h 42 m -61,-55 h 80 m -65,0 -15,29 h 30 z m 50,0 -15,29 h 30 z"
+         id="path6" />
+    </g>
+    <text
+       x="686.66669"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text6">Fair comparison</text>
+    <text
+       x="686.66669"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text7">Same workload</text>
+    <path
+       d="M 741.66667,137 H 905"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path7" />
+    <g
+       transform="translate(960,137)"
+       fill="none"
+       stroke="#466e7b"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g8">
+      <circle
+         cx="0"
+         cy="0"
+         r="33"
+         id="circle7" />
+      <path
+         d="M 0,-20 V 0 l 18,12"
+         id="path8" />
+    </g>
+    <text
+       x="960"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text8">Constraints</text>
+    <text
+       x="960"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text9">Energy and time limit</text>
+  </g>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>A focused research question</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

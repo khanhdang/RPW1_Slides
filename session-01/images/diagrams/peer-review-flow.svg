@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-labelledby="title desc">
+  <title id="title">Typical journal peer-review flow</title>
+  <desc id="desc">Authors submit a manuscript. An editor screens it and invites expert reviewers. Reviewers send reports and recommendations. The editor decides to accept, request revision, or reject. Authors revise and respond, returning to the editor for another assessment, sometimes with further review. An editor may reject before external review.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M1 1l8 4-8 4" fill="none" stroke="#77756d" stroke-width="1.5"/></marker>
+  </defs>
+  <g fill="none" stroke="#77756d" stroke-width="2.5" marker-end="url(#arrow)" stroke-linejoin="round">
+    <path d="M260 105H295"/>
+    <path d="M525 105H560"/>
+    <path d="M790 105H825"/>
+    <path d="M945 155V225H170V275"/>
+    <path d="M550 225V275"/>
+    <path d="M945 225V275"/>
+    <path d="M550 365V407H20V20H410V55"/>
+  </g>
+  <g font-family="Aptos, 'Segoe UI', Arial, sans-serif" text-anchor="middle" fill="#30302b">
+    <g fill="#faf8f2" stroke="#b37218" stroke-width="2">
+      <rect x="40" y="55" width="220" height="100" rx="8"/>
+      <rect x="305" y="55" width="220" height="100" rx="8"/>
+      <rect x="835" y="55" width="220" height="100" rx="8"/>
+    </g>
+    <rect x="570" y="55" width="220" height="100" rx="8" fill="#f1f6f7" stroke="#466e7b" stroke-width="2"/>
+    <g font-size="28" font-weight="700">
+      <text x="150" y="91">Authors</text>
+      <text x="415" y="91">Editor</text>
+      <text x="680" y="91" fill="#466e7b">Reviewers</text>
+      <text x="945" y="91">Editor</text>
+    </g>
+    <g font-size="23">
+      <text x="150" y="127">Submit manuscript</text>
+      <text x="415" y="121"><tspan x="415">Screen paper</tspan><tspan x="415" dy="26">Invite reviewers</tspan></text>
+      <text x="680" y="121"><tspan x="680">Assess the work</tspan><tspan x="680" dy="26">Send reports</tspan></text>
+      <text x="945" y="121"><tspan x="945">Weigh reports</tspan><tspan x="945" dy="26">Make decision</tspan></text>
+    </g>
+    <text x="415" y="187" font-size="20" fill="#77756d">May reject before review</text>
+    <g font-size="29" font-weight="700">
+      <text x="170" y="306" fill="#466e7b">Accept</text>
+      <text x="550" y="306" fill="#b37218">Revise</text>
+      <text x="945" y="306" fill="#795a51">Reject</text>
+    </g>
+    <g font-size="23">
+      <text x="170" y="343">Prepare for publication</text>
+      <text x="550" y="339"><tspan x="550">Authors revise paper</tspan><tspan x="550" dy="26">and respond to comments</tspan></text>
+      <text x="945" y="343">Review process ends</text>
+    </g>
+    <rect x="77" y="393" width="386" height="28" fill="#f5f5f5"/>
+    <text x="270" y="414" font-size="20" fill="#77756d">Editor reassesses; may request more review</text>
+  </g>
+</svg>

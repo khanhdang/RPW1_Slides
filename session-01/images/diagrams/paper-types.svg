@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="450" viewBox="0 0 1100 450" role="img" aria-labelledby="title desc">
+  <title id="title">Common types of research papers</title>
+  <desc id="desc">Five types grouped by their main contribution: survey or review, finding or empirical study, solution or method, theory, and resource or dataset. Paper types can overlap.</desc>
+  <defs>
+    <g id="paper" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M0 0h30l12 12v44H0z M30 0v12h12"/>
+    </g>
+  </defs>
+  <g font-family="Aptos, 'Segoe UI', Arial, sans-serif" fill="#30302b">
+    <text x="98" y="25" font-size="19" fill="#77756d" letter-spacing="1.5">PAPER TYPE</text>
+    <text x="470" y="25" font-size="19" fill="#77756d" letter-spacing="1.5">MAIN CONTRIBUTION</text>
+    <g transform="translate(22 47)" color="#b37218">
+      <use href="#paper"/>
+      <path d="M9 23h23M9 32h23M9 41h16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+    <text x="98" y="80" font-size="28" font-weight="700">Survey / review</text>
+    <text x="470" y="70" font-size="25"><tspan x="470">Summarizes earlier studies</tspan><tspan x="470" dy="30">and identifies open questions</tspan></text>
+    <path d="M98 117H1070" stroke="#dedbd3"/>
+    <g transform="translate(22 128)" color="#466e7b">
+      <use href="#paper"/>
+      <path d="M9 44V32M20 44V24M31 44V18" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <text x="98" y="161" font-size="28" font-weight="700">Finding / empirical study</text>
+    <text x="470" y="151" font-size="25"><tspan x="470">Reports new observations</tspan><tspan x="470" dy="30">or experimental results</tspan></text>
+    <path d="M98 198H1070" stroke="#dedbd3"/>
+    <g transform="translate(22 209)" color="#b37218">
+      <use href="#paper"/>
+      <path d="m10 32 8 8 15-18" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="98" y="242" font-size="28" font-weight="700">Solution / method</text>
+    <text x="470" y="232" font-size="25"><tspan x="470">Proposes an approach</tspan><tspan x="470" dy="30">and evaluates how well it works</tspan></text>
+    <path d="M98 279H1070" stroke="#dedbd3"/>
+    <g transform="translate(22 290)" color="#466e7b">
+      <use href="#paper"/>
+      <text x="7" y="39" fill="currentColor" font-family="Georgia, serif" font-size="23">x=y</text>
+    </g>
+    <text x="98" y="323" font-size="28" font-weight="700">Theory</text>
+    <text x="470" y="323" font-size="25">Develops models or proves new results</text>
+    <path d="M98 360H1070" stroke="#dedbd3"/>
+    <g transform="translate(22 371)" color="#b37218">
+      <use href="#paper"/>
+      <path d="M9 22h24v22H9zM9 33h24M21 22v22" fill="none" stroke="currentColor" stroke-width="2.5"/>
+    </g>
+    <text x="98" y="404" font-size="28" font-weight="700">Resource / dataset</text>
+    <text x="470" y="404" font-size="25">Introduces data or tools for further research</text>
+  </g>
+</svg>

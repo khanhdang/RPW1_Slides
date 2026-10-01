@@ -88,3 +88,8 @@ section.dark a {
   font-size: 34px;
   line-height: 1.8;
 }
+
+.two-column-list ul {
+  columns: 2;
+  column-gap: 60px;
+}
