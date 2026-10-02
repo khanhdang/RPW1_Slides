@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="300"
+   viewBox="0 0 1100 300"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="research-paper.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7763636"
+     inkscape:cx="550"
+     inkscape:cy="149.74411"
+     inkscape:window-width="2560"
+     inkscape:window-height="1649"
+     inkscape:window-x="0"
+     inkscape:window-y="273"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <title
+     id="title">What is a research paper?</title>
+  <desc
+     id="desc">Diagram labels: Question. What is the problem?. Method. What did we do?. Evidence. What did we find?. Conclusion. What does it mean?. Explain earlier work and the limits of your study..</desc>
+  <defs
+     id="defs1">
+    <rect
+       x="-238.6653"
+       y="-104.10623"
+       width="1310.1805"
+       height="395.17874"
+       id="rect11" />
+    <marker
+       id="a"
+       markerWidth="12"
+       markerHeight="12"
+       refX="9"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse">
+      <path
+         d="M 0,0 9,5 0,10"
+         fill="none"
+         stroke="#77756d"
+         stroke-width="2"
+         id="path1" />
+    </marker>
+  </defs>
+  <g
+     font-family="Aptos, 'Segoe UI', Arial, sans-serif"
+     id="g10">
+    <g
+       transform="translate(140,137)"
+       fill="none"
+       stroke="#b37218"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g2">
+      <circle
+         cx="0"
+         cy="0"
+         r="34"
+         id="circle1" />
+      <path
+         d="m -11,-13 c 0,-15 25,-14 25,2 0,10 -14,8 -14,21 m 0,12 v 1"
+         id="path2" />
+    </g>
+    <text
+       x="140"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text2">Question</text>
+    <text
+       x="140"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text3">What is the problem?</text>
+    <path
+       d="M 195,137 H 358.33333"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path3" />
+    <g
+       transform="translate(413.33333,137)"
+       fill="none"
+       stroke="#466e7b"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g4">
+      <circle
+         cx="0"
+         cy="0"
+         r="26"
+         id="circle3" />
+      <circle
+         cx="0"
+         cy="0"
+         r="10"
+         id="circle4" />
+      <path
+         d="M 0,-26 V -40 M 0,26 V 40 M 26,0 H 40 M -26,0 H -40 M 18,-18 28,-28 M 18,18 28,28 M -18,18 -28,28 m 10,-46 -10,-10"
+         id="path4" />
+    </g>
+    <text
+       x="413.33334"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text4">Method</text>
+    <text
+       x="413.33334"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text5">What did we do?</text>
+    <path
+       d="M 468.33333,137 H 631.66667"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path5" />
+    <g
+       transform="translate(686.66667,137)"
+       fill="none"
+       stroke="#b37218"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g6">
+      <path
+         d="M -35,-35 V 35 H 37 M -20,20 V 0 M 0,20 v -35 m 20,35 v -49"
+         id="path6" />
+    </g>
+    <text
+       x="686.66669"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text6">Evidence</text>
+    <text
+       x="686.66669"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="686.66669"
+         y="264">What did we find?</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="686.66669"
+         y="292.75" /></text>
+    <path
+       d="M 741.66667,137 H 905"
+       fill="none"
+       stroke="#77756d"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       marker-end="url(#a)"
+       id="path7" />
+    <g
+       transform="translate(960,137)"
+       fill="none"
+       stroke="#466e7b"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g8">
+      <path
+         d="m -27,-38 h 40 l 16,16 v 60 h -56 z m 40,0 v 16 H 29 M -14,-8 H 15 M -14,6 H 15 M -14,20 H 8"
+         id="path8" />
+    </g>
+    <text
+       x="960"
+       y="223"
+       fill="#30302b"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text8">Conclusion</text>
+    <text
+       x="960"
+       y="264"
+       fill="#30302b"
+       font-size="23px"
+       text-anchor="middle"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="960"
+         y="264">What did it solve?</tspan><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="960"
+         y="292.75" /></text>
+    <text
+       x="550"
+       y="375"
+       fill="#b37218"
+       font-size="27px"
+       text-anchor="middle"
+       font-weight="700"
+       id="text10" />
+    <text
+       xml:space="preserve"
+       id="text11"
+       style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11);fill:#0b280b;stroke:#000000;stroke-width:49.1339;stroke-linecap:round;paint-order:fill markers stroke" />
+  </g>
+</svg>

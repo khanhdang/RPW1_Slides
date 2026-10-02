@@ -114,3 +114,18 @@ section.dark a {
   columns: 2;
   column-gap: 60px;
 }
+
+mark {
+  background: #ffeb3b;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+section video {
+  display: block;
+  margin: 12px auto;
+  width: 100%;
+  max-width: 1000px;
+  height: 420px;
+  object-fit: contain;
+}
