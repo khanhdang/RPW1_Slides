@@ -11,13 +11,14 @@ section {
 
 }
 
+
 h1 {
-    color: #b37218;
+    color: #593401;
     font-size: 46px;
     position: absolute;
-    top: 25px;
-    left: 60px;
-    right: 60px;
+    top: 30px;
+    left: 50px;
+    right: 50px;
     margin: 0;
     /* font-size: 36px; */
 }
